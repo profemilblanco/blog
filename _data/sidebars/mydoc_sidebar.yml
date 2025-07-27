@@ -71,6 +71,34 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
+    - title: Objetivo 1
+      url: /306__obj_1.html
+      output: web, pdf
+
+    - title: Objetivo 2
+      url: /306__obj_2.html
+      output: web, pdf
+
+    - title: Objetivo 3
+      url: /306__obj_3.html
+      output: web, pdf
+
+    - title: Objetivo 4
+      url: /306__obj_4.html
+      output: web, pdf
+
+    - title: Objetivo 5
+      url: /306__obj_5.html
+      output: web, pdf
+
+    - title: Objetivo 6
+      url: /306__obj_6.html
+      output: web, pdf
+
+    - title: Objetivo 7
+      url: /306__obj_7.html
+      output: web, pdf
+
   - title: 311
     output: web, pdf
     folderitems:
