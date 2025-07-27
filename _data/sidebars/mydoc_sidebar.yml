@@ -31,16 +31,32 @@ entries:
       url: /305__obj_1.html
       output: web, pdf
 
-    - title: Supported features
-      url: /mydoc_supported_features.html
+    - title: Objetivo 2
+      url: /305__obj_2.html
       output: web, pdf
 
-    - title: About the theme author
-      url: /mydoc_about.html
+    - title: Objetivo 3
+      url: /305__obj_3.html
       output: web, pdf
 
-    - title: Support
-      url: /mydoc_support.html
+    - title: Objetivo 4
+      url: /305__obj_4.html
+      output: web, pdf
+
+    - title: Objetivo 5
+      url: /305__obj_5.html
+      output: web, pdf
+
+    - title: Objetivo 6
+      url: /305__obj_6.html
+      output: web, pdf
+
+    - title: Objetivo 7
+      url: /305__obj_7.html
+      output: web, pdf
+
+    - title: Objetivo 8
+      url: /305__obj_8.html
       output: web, pdf
 
   - title: 306
