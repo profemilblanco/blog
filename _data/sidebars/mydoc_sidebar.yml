@@ -201,39 +201,39 @@ entries:
 
     folderitems:
     - title: Objetivo 1
-      url: /332__obj_1.html
+      url: /332__obj_01.html
       output: web, pdf
 
     - title: Objetivo 2
-      url: /332__obj_2.html
+      url: /332__obj_02.html
       output: web, pdf
 
     - title: Objetivo 3
-      url: /332__obj_3.html
+      url: /332__obj_03.html
       output: web, pdf
 
     - title: Objetivo 4
-      url: /332__obj_4.html
+      url: /332__obj_04.html
       output: web, pdf
 
     - title: Objetivo 5
-      url: /332__obj_5.html
+      url: /332__obj_05.html
       output: web, pdf
 
     - title: Objetivo 6
-      url: /332__obj_6.html
+      url: /332__obj_06.html
       output: web, pdf
 
     - title: Objetivo 7
-      url: /332__obj_7.html
+      url: /332__obj_07.html
       output: web, pdf
 
     - title: Objetivo 8
-      url: /332__obj_8.html
+      url: /332__obj_08.html
       output: web, pdf
 
     - title: Objetivo 9
-      url: /332__obj_9.html
+      url: /332__obj_09.html
       output: web, pdf
 
     - title: Objetivo 10
