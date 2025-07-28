@@ -407,12 +407,6 @@ div#toc >ul::before {
     line-height: 1.6;
 }
 
-#tg-sb-content table {
-    text-align: center !important;
-    margin: 0 auto !important;
-    display: table !important;
-}
-
 /* Estilos específicos para dispositivos móviles */
 @media (max-width: 768px) {
     #tg-sb-content {
