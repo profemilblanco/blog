@@ -409,7 +409,7 @@ div#toc >ul::before {
 
 #tg-sb-content table {
     margin: 0 auto;
-    display: block;
+    display: table;
 }
 
 /* Estilos específicos para dispositivos móviles */
