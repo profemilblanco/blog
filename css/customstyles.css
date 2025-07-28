@@ -118,11 +118,6 @@ table {
     display: table; /* Esencial para que el centrado funcione correctamente */
 }
 
-table.markdown-table {
-    margin: 0 auto 20px !important;
-    display: table !important;
-}
-
 table > thead > tr > th,
 table > tbody > tr > th,
 table > tfoot > tr > th,
@@ -1036,4 +1031,9 @@ h4.panel-title {
 #tg-sb-content code,
 #tg-sb-content pre {
     text-align: left;
+}
+
+table.markdown-table {
+    margin: 0 auto 20px !important;
+    display: table !important;
 }
