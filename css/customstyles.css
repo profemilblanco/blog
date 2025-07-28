@@ -126,11 +126,17 @@ caption {
 th {
     text-align: left;
 }
+
 table {
     max-width: 90%;
-    margin: 1.5em auto;
+    margin: 0 auto 20px; /* Centra la tabla horizontalmente */
     border: 1px solid #dedede;
-    display: table;
+    display: table; /* Esencial para que el centrado funcione correctamente */
+}
+
+table.markdown-table {
+    margin: 0 auto 20px !important;
+    display: table !important;
 }
 
 table > thead > tr > th,
