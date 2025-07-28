@@ -186,7 +186,21 @@ table tr td {
     hyphens: auto;
 }
 
-
+table.center-table {
+  margin: 1.5em auto;
+  display: table;
+  
+  th, td {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  th {
+    font-weight: bold;
+  }
+}
+    
 p.external a {
     text-align:right;
     font-size:12px;
