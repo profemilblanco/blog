@@ -128,8 +128,9 @@ th {
 }
 table {
     max-width: 90%;
-    margin-bottom: 20px;
+    margin: 0 auto 20px;
     border: 1px solid #dedede;
+    display: table;
 }
 
 table > thead > tr > th,
