@@ -981,15 +981,47 @@ h4.panel-title {
     }
 }
 
-/* Estilos para texto justificado - NUEVOS ESTILOS AÑADIDOS */
+/* Estilos para texto justificado - MEJORADOS PARA MÓVILES */
 #tg-sb-content {
     text-align: justify;
     text-justify: inter-word;
+    hyphens: auto;
 }
 
 #tg-sb-content p {
     text-align: justify;
     text-justify: inter-word;
+    hyphens: auto;
+    line-height: 1.6; /* Mejora la legibilidad */
+}
+
+/* Estilos específicos para dispositivos móviles */
+@media (max-width: 768px) {
+    #tg-sb-content {
+        text-align: justify;
+        text-justify: inter-word;
+        hyphens: auto;
+        -webkit-hyphens: auto;
+        -ms-hyphens: auto;
+        line-height: 1.6;
+        word-wrap: break-word;
+        word-break: break-word;
+    }
+
+    #tg-sb-content p {
+        text-align: justify;
+        text-justify: inter-word;
+        hyphens: auto;
+        -webkit-hyphens: auto;
+        -ms-hyphens: auto;
+        line-height: 1.6;
+        word-wrap: break-word;
+        word-break: break-word;
+    }
+
+    #tg-sb-content {
+        padding: 0 15px; /* Añade un poco de espacio en los lados */
+    }
 }
 
 /* Opcional: mantener el texto de código alineado a la izquierda */
