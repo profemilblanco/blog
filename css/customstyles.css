@@ -408,8 +408,9 @@ div#toc >ul::before {
 }
 
 #tg-sb-content table {
-    margin: 0 auto;
-    display: table;
+    text-align: center !important;
+    margin: 0 auto !important;
+    display: table !important;
 }
 
 /* Estilos específicos para dispositivos móviles */
