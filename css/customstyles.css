@@ -983,8 +983,8 @@ h4.panel-title {
 
 /* Estilos para texto justificado - MEJORADOS PARA MÓVILES */
 #tg-sb-content {
-    text-align: justify;
-    text-justify: inter-word;
+    text-align: justify !important;
+    text-justify: inter-word !important;
     hyphens: auto;
 }
 
