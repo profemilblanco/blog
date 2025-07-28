@@ -23,41 +23,41 @@ entries:
     output: web, pdf
     
     folderitems:
-    - title: Get started
-      url: /index.html
-      output: web, pdf
-      type: homepage
+#    - title: Get started
+#      url: /index.html
+#      output: web, pdf
+#      type: homepage
 
     - title: Objetivo 1
-      url: /305__obj_1.html
+      url: /305__obj_01.html
       output: web, pdf
 
     - title: Objetivo 2
-      url: /305__obj_2.html
+      url: /305__obj_02.html
       output: web, pdf
 
     - title: Objetivo 3
-      url: /305__obj_3.html
+      url: /305__obj_03.html
       output: web, pdf
 
     - title: Objetivo 4
-      url: /305__obj_4.html
+      url: /305__obj_04.html
       output: web, pdf
 
     - title: Objetivo 5
-      url: /305__obj_5.html
+      url: /305__obj_05.html
       output: web, pdf
 
     - title: Objetivo 6
-      url: /305__obj_6.html
+      url: /305__obj_06.html
       output: web, pdf
 
     - title: Objetivo 7
-      url: /305__obj_7.html
+      url: /305__obj_07.html
       output: web, pdf
 
     - title: Objetivo 8
-      url: /305__obj_8.html
+      url: /305__obj_08.html
       output: web, pdf
 
   - title: 306
@@ -65,31 +65,31 @@ entries:
     
     folderitems:
     - title: Objetivo 1
-      url: /306__obj_1.html
+      url: /306__obj_01.html
       output: web, pdf
 
     - title: Objetivo 2
-      url: /306__obj_2.html
+      url: /306__obj_02.html
       output: web, pdf
 
     - title: Objetivo 3
-      url: /306__obj_3.html
+      url: /306__obj_03.html
       output: web, pdf
 
     - title: Objetivo 4
-      url: /306__obj_4.html
+      url: /306__obj_04.html
       output: web, pdf
 
     - title: Objetivo 5
-      url: /306__obj_5.html
+      url: /306__obj_05.html
       output: web, pdf
 
     - title: Objetivo 6
-      url: /306__obj_6.html
+      url: /306__obj_06.html
       output: web, pdf
 
     - title: Objetivo 7
-      url: /306__obj_7.html
+      url: /306__obj_07.html
       output: web, pdf
 
   - title: 311
@@ -133,39 +133,39 @@ entries:
     
     folderitems:    
     - title: Objetivo 1
-      url: /315__obj_1.html
+      url: /315__obj_01.html
       output: web, pdf
 
     - title: Objetivo 2
-      url: /315__obj_2.html
+      url: /315__obj_02.html
       output: web, pdf
 
     - title: Objetivo 3
-      url: /315__obj_3.html
+      url: /315__obj_03.html
       output: web, pdf
 
     - title: Objetivo 4
-      url: /315__obj_4.html
+      url: /315__obj_04.html
       output: web, pdf
 
     - title: Objetivo 5
-      url: /315__obj_5.html
+      url: /315__obj_05.html
       output: web, pdf
 
     - title: Objetivo 6
-      url: /315__obj_6.html
+      url: /315__obj_06.html
       output: web, pdf
 
     - title: Objetivo 7
-      url: /315__obj_7.html
+      url: /315__obj_07.html
       output: web, pdf
 
     - title: Objetivo 8
-      url: /315__obj_8.html
+      url: /315__obj_08.html
       output: web, pdf
 
     - title: Objetivo 9
-      url: /315__obj_9.html
+      url: /315__obj_09.html
       output: web, pdf
 
   - title: 323
@@ -245,39 +245,39 @@ entries:
 
     folderitems:
     - title: Objetivo 1
-      url: /335__obj_1.html
+      url: /335__obj_01.html
       output: web, pdf
 
     - title: Objetivo 2
-      url: /335__obj_2.html
+      url: /335__obj_02.html
       output: web, pdf
 
     - title: Objetivo 3
-      url: /335__obj_3.html
+      url: /335__obj_03.html
       output: web, pdf
 
     - title: Objetivo 4
-      url: /335__obj_4.html
+      url: /335__obj_04.html
       output: web, pdf
 
     - title: Objetivo 5
-      url: /335__obj_5.html
+      url: /335__obj_05.html
       output: web, pdf
 
     - title: Objetivo 6
-      url: /335__obj_6.html
+      url: /335__obj_06.html
       output: web, pdf
 
     - title: Objetivo 7
-      url: /335__obj_7.html
+      url: /335__obj_07.html
       output: web, pdf
 
     - title: Objetivo 8
-      url: /335__obj_8.html
+      url: /335__obj_08.html
       output: web, pdf
 
     - title: Objetivo 9
-      url: /335__obj_9.html
+      url: /335__obj_09.html
       output: web, pdf
 
     - title: Objetivo 10
@@ -297,31 +297,31 @@ entries:
 
     folderitems:
     - title: Objetivo 1
-      url: /337__obj_1.html
+      url: /337__obj_01.html
       output: web, pdf
 
     - title: Objetivo 2
-      url: /337__obj_2.html
+      url: /337__obj_02.html
       output: web, pdf
 
     - title: Objetivo 3
-      url: /337__obj_3.html
+      url: /337__obj_03.html
       output: web, pdf
 
     - title: Objetivo 4
-      url: /337__obj_4.html
+      url: /337__obj_04.html
       output: web, pdf
 
     - title: Objetivo 5
-      url: /337__obj_5.html
+      url: /337__obj_05.html
       output: web, pdf
 
     - title: Objetivo 6
-      url: /337__obj_6.html
+      url: /337__obj_06.html
       output: web, pdf
 
     - title: Objetivo 7
-      url: /337__obj_7.html
+      url: /337__obj_07.html
       output: web, pdf
 
   - title: 338
@@ -329,39 +329,39 @@ entries:
 
     folderitems:
     - title: Objetivo 1
-      url: /338__obj_1.html
+      url: /338__obj_01.html
       output: web, pdf
 
     - title: Objetivo 2
-      url: /338__obj_2.html
+      url: /338__obj_02.html
       output: web, pdf
 
     - title: Objetivo 3
-      url: /338__obj_3.html
+      url: /338__obj_03.html
       output: web, pdf
 
     - title: Objetivo 4
-      url: /338__obj_4.html
+      url: /338__obj_04.html
       output: web, pdf
 
     - title: Objetivo 5
-      url: /338__obj_5.html
+      url: /338__obj_05.html
       output: web, pdf
 
     - title: Objetivo 6
-      url: /338__obj_6.html
+      url: /338__obj_06.html
       output: web, pdf
 
     - title: Objetivo 7
-      url: /338__obj_7.html
+      url: /338__obj_07.html
       output: web, pdf
 
     - title: Objetivo 8
-      url: /338__obj_8.html
+      url: /338__obj_08.html
       output: web, pdf
 
     - title: Objetivo 9
-      url: /338__obj_9.html
+      url: /338__obj_09.html
       output: web, pdf
 
   - title: 359
@@ -369,31 +369,31 @@ entries:
 
     folderitems:
     - title: Objetivo 1
-      url: /359__obj_1.html
+      url: /359__obj_01.html
       output: web, pdf
 
     - title: Objetivo 2
-      url: /359__obj_2.html
+      url: /359__obj_02.html
       output: web, pdf
 
     - title: Objetivo 3
-      url: /359__obj_3.html
+      url: /359__obj_03.html
       output: web, pdf
 
     - title: Objetivo 4
-      url: /359__obj_4.html
+      url: /359__obj_04.html
       output: web, pdf
 
     - title: Objetivo 5
-      url: /359__obj_5.html
+      url: /359__obj_05.html
       output: web, pdf
 
     - title: Objetivo 6
-      url: /359__obj_6.html
+      url: /359__obj_06.html
       output: web, pdf
 
     - title: Objetivo 7
-      url: /359__obj_7.html
+      url: /359__obj_07.html
       output: web, pdf
 
 # Copyright 2021 Google LLC
