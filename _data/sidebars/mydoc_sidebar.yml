@@ -137,7 +137,7 @@ entries:
       output: web, pdf
 
     - title: Objetivo 2
-      url: /315__obj_02.md
+      url: /315__obj_02.html
       output: web, pdf
 
     - title: Objetivo 3
