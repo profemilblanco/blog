@@ -115,6 +115,38 @@ entries:
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
+    - title: Objetivo I.1
+      url: /311__obj_i1.html
+      output: web, pdf
+
+    - title: Objetivo I.2
+      url: /311__obj_i2.html
+      output: web, pdf
+
+    - title: Objetivo I.3
+      url: /311__obj_i3.html
+      output: web, pdf
+
+    - title: Objetivo II.1
+      url: /311__obj_ii1.html
+      output: web, pdf
+
+    - title: Objetivo II.2
+      url: /311__obj_ii2.html
+      output: web, pdf
+
+    - title: Objetivo II.3
+      url: /311__obj_ii3.html
+      output: web, pdf
+
+    - title: Objetivo II.4
+      url: /311__obj_ii4.html
+      output: web, pdf
+
+    - title: Objetivo III.1
+      url: /311__obj_iii1.html
+      output: web, pdf
+
   - title: 315
     output: web, pdf
 
