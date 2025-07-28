@@ -110,10 +110,20 @@ caption {
 th {
     text-align: left;
 }
+
 table {
     max-width: 90%;
-    margin-bottom: 20px;
+    margin: 0 auto 20px; /* Centra la tabla horizontalmente */
     border: 1px solid #dedede;
+    display: table; /* Esencial para que el centrado funcione correctamente */
+}
+
+table.center-table,
+table.markdown-table {
+    margin: 0 auto 20px !important;
+    display: table !important;
+}
+
 }
 table > thead > tr > th,
 table > tbody > tr > th,
