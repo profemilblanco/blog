@@ -1,0 +1,74 @@
+/* Contenedor del toggle */
+.toggle-container {
+  margin: 20px 0;
+}
+
+/* Estilo para el botón toggle */
+.toggle-button {
+  background-color: #007acc;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+  margin-bottom: 15px;
+}
+
+.toggle-button:hover {
+  background-color: #005fa3;
+}
+
+.toggle-button:focus {
+  outline: 2px solid #007acc;
+  outline-offset: 2px;
+}
+
+/* Estilo para el contenido toggle */
+.toggle-content {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #f8f9fa;
+  margin-top: 10px;
+}
+
+.toggle-content p {
+  margin: 0 0 10px 0;
+  line-height: 1.6;
+}
+
+.toggle-content p:last-child {
+  margin-bottom: 0;
+}
+
+/* Para contenido HTML */
+.toggle-content ul,
+.toggle-content ol {
+  margin: 10px 0;
+  padding-left: 20px;
+}
+
+.toggle-content li {
+  margin-bottom: 5px;
+}
+
+.toggle-content h1,
+.toggle-content h2,
+.toggle-content h3,
+.toggle-content h4,
+.toggle-content h5,
+.toggle-content h6 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.toggle-content a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+.toggle-content a:hover {
+  text-decoration: underline;
+}
