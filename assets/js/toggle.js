@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
         this.textContent = 'Ocultar contenido';
       } else {
         content.style.display = 'none';
-        this.textContent = 'Mostrar contenido';
+        this.textContent = 'Mostrar Modelo de Respuesta';
       }
     });
   });
