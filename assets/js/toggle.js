@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
       // Alterna la visibilidad
       if (content.style.display === 'none' || content.style.display === '') {
         content.style.display = 'block';
-        this.textContent = 'Ocultar contenido';
+        this.textContent = 'Ocultar Modelo de Respuesta';
       } else {
         content.style.display = 'none';
         this.textContent = 'Mostrar Modelo de Respuesta';
