@@ -1,0 +1,6 @@
+<div class="toggle-container">
+  <button class="toggle-button" data-target="toggle-{{ include.id }}">Mostrar contenido</button>
+  <div id="toggle-{{ include.id }}" class="toggle-content" style="display: none;">
+    {{ include.content | markdownify }}
+  </div>
+</div>
