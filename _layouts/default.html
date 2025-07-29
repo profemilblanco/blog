@@ -4,7 +4,11 @@
     {% include head.html %}
     <!-- MathJax Configuration -->
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script id="MathJax-script" async src="  https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js  "></script>
+    
+    <!-- CSS Personalizado para Toggle -->
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+    
     <script>
         $(document).ready(function() {
             // Initialize navgoco with default options
@@ -102,6 +106,9 @@
 <!-- /#main -->
     </div>
 
+    <!-- JavaScript Personalizado para Toggle - Debe ir antes del cierre de body -->
+    <script src="{{ '/assets/js/toggle.js' | relative_url }}"></script>
+    
 </body>
 {% if site.google_analytics %}
 {% include google_analytics.html %}
