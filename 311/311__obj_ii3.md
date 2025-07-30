@@ -5,26 +5,39 @@ permalink: 311__obj_ii3.html
 folder: 311
 ---
 
-## Overview
+## Información del Plan de Curso
 
-This site provides documentation, training, and other notes for the Jekyll Documentation theme. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme. But by and large, understanding how to do things in Jekyll depends on how your theme is coded. As a result, these additional details are provided.
+### Objetivo
+"Aplicar de forma lógica y coherente las técnicas de normalización en el diseño de una base de datos".
 
-The instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
+### Punturación
+3 puntos
 
-## Survey of features
+## Lista de Contenido
 
-Some of the more prominent features of this theme include the following:
+### Directrices de diseño informales para los esquemas de relación.
+### Dependencias funcionales. Formas normales basadas en claves principales.
+### Definiciones generales de la segunda y tercera formas normales. Forma normal de Boyce-Codd.
+### Propiedades de las descomposición es relacionales. Algoritmos para el diseño de un esquema de base de datos relacional.
+### Dependencias multivalor y cuarta forma normal.
+### Dependencias de concatenación y quinta forma normal.
+### Dependencias de inclusión. Otras dependencias y formas normales.
 
-* Bootstrap framework
-* [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
-* Ability to specify different sidebars for different products
-* Top navigation bar with drop-down menus
-* Notes, tips, and warning information notes
-* Tags for alternative navigation
-* Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
+## Ejercicios de TSP/TP de Semestres Pasados
 
-## Getting started
-
-To get started, see [Getting Started][index].
-
-{% include links.html %}
+### 2024-2
+{% include toggle.html id="311__obj_ii3__mr_2024_2" content=" " %}
+### 2024-1
+{% include toggle.html id="311__obj_ii3__mr_2024_1" content=" " %}
+### 2023-2
+{% include toggle.html id="311__obj_ii3__mr_2023_2" content=" " %}
+### 2023-1
+{% include toggle.html id="311__obj_ii3__mr_2023_1" content=" " %}
+### 2022-2
+{% include toggle.html id="311__obj_ii3__mr_2022_2" content=" " %}
+### 2022-1
+{% include toggle.html id="311__obj_ii3__mr_2022_1" content=" " %}
+### 2021-2
+{% include toggle.html id="311__obj_ii3__mr_2021_2" content=" " %}
+### 2021-1
+{% include toggle.html id="311__obj_ii3__mr_2021_2" content=" " %}
