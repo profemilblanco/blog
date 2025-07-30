@@ -5,26 +5,50 @@ permalink: 323__obj_ii3.html
 folder: 323
 ---
 
-## Overview
+## Información del Plan de Curso
 
-This site provides documentation, training, and other notes for the Jekyll Documentation theme. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme. But by and large, understanding how to do things in Jekyll depends on how your theme is coded. As a result, these additional details are provided.
+### Objetivo
+"Codificar en forma lógica y coherente algoritmos en PASCAL, aplicando tipo de datos y/o procedimientos y funciones y/o métodos de archivos".
 
-The instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
+### Punturación
+6 puntos
 
-## Survey of features
+## Lista de Contenido
 
-Some of the more prominent features of this theme include the following:
+### Técnica de programación
+### Programación modular
+### Programación estructurada
+### Estructura secuencial, selectiva, repetitiva, de decisiones anidadas y repetitivas anidadas
+### La instrucción ir_a (goto)
+### Introducción a subalgoritmos o subprogramas
+### Funciones
+### Procedimientos (subrutinas)
+### Ámbito: Variables locales y globales
+### Comunicación con subprogramas
+### Funciones y procedimientos como parámetros
+### Los efectos laterales
+### Recursión (recursividad)
+### Concepto de un programa
+### Parte Constitutiva de un programa, Instrucciones y tipos de instrucciones
+### Elementos básicos de un Programa
+### Diseño de programas
+### Programación en PASCAL
 
-* Bootstrap framework
-* [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
-* Ability to specify different sidebars for different products
-* Top navigation bar with drop-down menus
-* Notes, tips, and warning information notes
-* Tags for alternative navigation
-* Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
+## Ejercicios de TSP/TP de Semestres Pasados
 
-## Getting started
-
-To get started, see [Getting Started][index].
-
-{% include links.html %}
+### 2024-2
+{% include toggle.html id="323__obj_ii3__mr_2024_2" content=" " %}
+### 2024-1
+{% include toggle.html id="323__obj_ii3__mr_2024_1" content=" " %}
+### 2023-2
+{% include toggle.html id="323__obj_ii3__mr_2023_2" content=" " %}
+### 2023-1
+{% include toggle.html id="323__obj_ii3__mr_2023_1" content=" " %}
+### 2022-2
+{% include toggle.html id="323__obj_ii3__mr_2022_2" content=" " %}
+### 2022-1
+{% include toggle.html id="323__obj_ii3__mr_2022_1" content=" " %}
+### 2021-2
+{% include toggle.html id="323__obj_ii3__mr_2021_2" content=" " %}
+### 2021-1
+{% include toggle.html id="323__obj_ii3__mr_2021_2" content=" " %}
