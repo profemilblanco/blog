@@ -121,3 +121,6 @@ github:
   edit: false
 
 github: [metadata]
+
+plugins:
+  - jekyll-toc
