@@ -87,3 +87,22 @@ footer {
         height: 70%;
     }
 }
+
+/* Hacer la barra superior fija */
+.navbar-inverse {
+    position: fixed !important;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    border-radius: 0 !important;
+}
+
+/* Ajustar el margen del cuerpo para compensar la barra fija */
+body {
+    padding-top: 70px; /* Ajusta según la altura real de tu barra */
+}
+
+/* Asegurar que el contenido principal no quede oculto */
+.main-content {
+    margin-top: 20px;
+}
