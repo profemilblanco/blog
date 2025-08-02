@@ -95,6 +95,7 @@ footer {
     width: 100%;
     z-index: 1000;
     border-radius: 0 !important;
+    margin-bottom: 0 !important;
 }
 
 /* Ajustar el margen del cuerpo para compensar la barra fija */
@@ -105,4 +106,61 @@ body {
 /* Asegurar que el contenido principal no quede oculto */
 .main-content {
     margin-top: 20px;
+}
+
+/* Estilos para el Table of Contents */
+.sidebar-content {
+    padding: 15px;
+    background-color: #f8f8f8;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.sidebar-content h3 {
+    margin-top: 0;
+    color: #333;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+
+#toc ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#toc ul li {
+    margin: 5px 0;
+}
+
+#toc ul li a {
+    color: #337ab7;
+    text-decoration: none;
+    display: block;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+#toc ul li a:hover {
+    background-color: #e9e9e9;
+    text-decoration: none;
+}
+
+/* Ajustes para el sidebar */
+#mysidebar {
+    margin-top: 10px;
+}
+
+/* Estilos para el menú desplegable */
+.dropdown-menu {
+    background-color: #222;
+    border: 1px solid #444;
+}
+
+.dropdown-menu > li > a {
+    color: #9d9d9d;
+}
+
+.dropdown-menu > li > a:hover {
+    background-color: #080808;
+    color: #fff;
 }
