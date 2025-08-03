@@ -14,4 +14,42 @@
     {% endif %}
 </div>
 
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Marcar el enlace activo basado en la URL actual
+    var currentUrl = window.location.pathname;
+    var links = document.querySelectorAll('#toc a');
+    
+    links.forEach(function(link) {
+        if (link.getAttribute('href') === currentUrl || 
+            link.getAttribute('href') === window.location.href) {
+            link.classList.add('active');
+        }
+    });
+    
+    // Funcionalidad para resaltar sección activa al hacer scroll
+    var headers = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
+    var tocLinks = document.querySelectorAll('#toc a[href^="#"]');
+    
+    if (headers.length > 0 && tocLinks.length > 0) {
+        window.addEventListener('scroll', function() {
+            var current = '';
+            headers.forEach(function(header) {
+                var headerTop = header.offsetTop;
+                if (pageYOffset >= headerTop - 100) {
+                    current = header.id;
+                }
+            });
+            
+            tocLinks.forEach(function(link) {
+                link.classList.remove('active');
+                if (link.getAttribute('href') === '#' + current) {
+                    link.classList.add('active');
+                }
+            });
+        });
+    }
+});
+</script>
+
 {% comment %} Copyright 2021 Google LLC {% endcomment %}
